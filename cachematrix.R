@@ -46,3 +46,4 @@ cacheSolve <- function(cacheable.matrix, ...) {
   inverted.matrix
   
 }
+
